@@ -4,12 +4,13 @@ I'm a passionate developer with expertise in various domains including web devel
 
 
 ## Skills
-- Python
+- Python 🐍
   - Flask 🌶️
 - Java ☕
-- Javascript/Typescript
+- Javascript
   - Reactjs ⚛️
   - Nextjs 💻
+- BootStrap, Tailwind CSS ✨
 - Linux 🐧
 - MongoDB 🍃
 - C
