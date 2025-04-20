@@ -6,6 +6,7 @@ I'm a passionate developer with expertise in various domains including web devel
 ## Skills
 - Python 🐍
   - Flask 🌶️
+  - Streamlit 💻
 - Java ☕
 - Javascript
   - Reactjs ⚛️
